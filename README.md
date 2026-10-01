@@ -8,7 +8,7 @@ Site do trabalho independente de criação de sites do Leandro Gabriel. Reúne o
 - **Hero** com os projetos rodando em janelas e no celular.
 - **Vitrine** com os 5 projetos-conceito (prints reais, recursos de cada um e link ao vivo).
 - **Recursos** que um site pode ter, com link para o exemplo em cada projeto.
-- **Preços:** site vitrine R$ 2.000, site com funcionalidades de R$ 2.500 a R$ 4.000, manutenção, extras e condição de lançamento.
+- **Quanto custa:** valores "a partir de" (vitrine R$ 2.000, com funcionalidades R$ 2.500), parcela no cartão, o custo de depender de iFood e Booking, o que faz o preço mudar, manutenção e condição de lançamento. Vem depois dos projetos e do "Como funciona", para o cliente ver o trabalho antes do número.
 - **Calculadora de orçamento:** a estimativa sai na hora e segue pelo WhatsApp ou por e-mail, já formatada.
 - **Como funciona**, **Sobre** (com LinkedIn e portfólio de redação técnica) e **Perguntas**.
 
